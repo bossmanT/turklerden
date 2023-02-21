@@ -2,7 +2,6 @@
 
 #add anotere
 
-<<<<<<< HEAD
 #Change that was made in github
 
 #Change that was made in powershell
